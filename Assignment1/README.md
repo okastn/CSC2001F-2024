@@ -9,7 +9,7 @@ Guidelines
    `1` for the Generics Array app and `2` for the Binary Search 
     Tree(BST).
 4. Once the selected menu is started,load a knowledge base from a file 
-   by inputting the print working directory of the text file
-   e.g /Users/Documents/CSC2001/GenericsKB.txt'
-5. If there is no FileNotFoundException thrown, select any option to 
+   by inputting the print working directory of the text file, make sure you specify full path of the text file
+   i.e `home/name/Deskop/GenericsKB.txt`
+6. If there is no FileNotFoundException thrown, select any option to 
    run the program.
